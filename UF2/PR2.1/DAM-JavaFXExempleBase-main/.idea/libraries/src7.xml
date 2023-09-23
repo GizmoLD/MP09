@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="src7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Release/lib/javafx-linux/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

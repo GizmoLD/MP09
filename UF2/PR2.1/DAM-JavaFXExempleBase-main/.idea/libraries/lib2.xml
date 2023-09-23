@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Release/lib/javafx-osx-arm/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Release/lib/javafx-osx-arm/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Release/lib/javafx-osx-arm/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Release/lib/javafx-osx-arm/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Release/lib/javafx-osx-arm/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Release/lib/javafx-osx-arm/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Release/lib/javafx-osx-arm/lib/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Release/lib/javafx-osx-arm/lib/javafx-swt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
